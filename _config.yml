@@ -103,5 +103,5 @@ theme: yilia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:rain1020/rain1020.github.io.git
+  repository: git@github.com:rain1020/rain1020.github.com.git
   branch: main

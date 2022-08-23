@@ -81,7 +81,7 @@
     "picomatch" "^2.0.4"
 
 "archy@^1.0.0":
-  "integrity" "sha1-+cjBN1fMHde8N5rHeyxipcKGjEA= sha512-Xg+9RwCg/0p32teKdGMPTPnVXKD0w3DfHnFTficozsAgsvq2XenPJq/MYpzzQ/v8zrOyJn6Ds39VA4JIDwFfqw=="
+  "integrity" "sha1-+cjBN1fMHde8N5rHeyxipcKGjEA="
   "resolved" "http://47.94.79.100:4873/archy/-/archy-1.0.0.tgz"
   "version" "1.0.0"
 
@@ -91,7 +91,7 @@
   "version" "2.0.1"
 
 "asap@^2.0.3":
-  "integrity" "sha1-5QNHYR1+aQlDIIu9r+vLwvuGbUY= sha512-BSHWgDSAiKs50o2Re8ppvp3seVHXSRM44cdSsT9FfNEUUZLOGWVCsiWaRPWM1Znn+mqZ1OfVZ3z3DWEzSp7hRA=="
+  "integrity" "sha1-5QNHYR1+aQlDIIu9r+vLwvuGbUY="
   "resolved" "http://47.94.79.100:4873/asap/-/asap-2.0.6.tgz"
   "version" "2.0.6"
 
@@ -160,7 +160,7 @@
   "version" "1.0.0"
 
 "bytes@3.0.0":
-  "integrity" "sha1-0ygVQE1olpn4Wk6k+odV3ROpYEg= sha512-pMhOfFDPiv9t5jjIXkHosWmkSyQbvsgEVNkz0ERHbuLh2T/7j4Mqqpz523Fe8MVY89KC6Sh/QfS2sM+SjgFDcw=="
+  "integrity" "sha1-0ygVQE1olpn4Wk6k+odV3ROpYEg="
   "resolved" "http://47.94.79.100:4873/bytes/-/bytes-3.0.0.tgz"
   "version" "3.0.0"
 
@@ -471,7 +471,7 @@
   "version" "2.0.3"
 
 "etag@~1.8.1":
-  "integrity" "sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc= sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg=="
+  "integrity" "sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc="
   "resolved" "http://47.94.79.100:4873/etag/-/etag-1.8.1.tgz"
   "version" "1.8.1"
 
@@ -481,7 +481,7 @@
   "version" "3.0.3"
 
 "fast-levenshtein@~2.0.6":
-  "integrity" "sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc= sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw=="
+  "integrity" "sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc="
   "resolved" "http://47.94.79.100:4873/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
   "version" "2.0.6"
 
@@ -522,7 +522,7 @@
     "mime-types" "^2.1.12"
 
 "fresh@0.5.2":
-  "integrity" "sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac= sha512-zJ2mQYM18rEFOudeV4GShTGIQ7RbzA7ozbU9I/XBpm7kqgMywgmylMwXHxZJmkVoYkna9d2pVXVXPdYTP9ej8Q=="
+  "integrity" "sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac="
   "resolved" "http://47.94.79.100:4873/fresh/-/fresh-0.5.2.tgz"
   "version" "0.5.2"
 
@@ -530,11 +530,6 @@
   "integrity" "sha1-FQStJSMVjKpA20onh8sBQRmU6k8="
   "resolved" "http://47.94.79.100:4873/fs.realpath/-/fs.realpath-1.0.0.tgz"
   "version" "1.0.0"
-
-"fsevents@~2.3.2":
-  "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA=="
-  "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
-  "version" "2.3.2"
 
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="
@@ -964,7 +959,7 @@
     "through" ">=2.2.7 <3"
 
 "levn@~0.3.0":
-  "integrity" "sha1-OwmSTt+fCDwEkP3UwLxEIeBHZO4= sha512-0OO4y2iOHix2W6ujICbKIaEQXvFQHue65vUG3pb5EUomzPI90z9hsA1VsO/dbIIpC53J8gxM9Q4Oho0jrCM/yA=="
+  "integrity" "sha1-OwmSTt+fCDwEkP3UwLxEIeBHZO4="
   "resolved" "http://47.94.79.100:4873/levn/-/levn-0.3.0.tgz"
   "version" "0.3.0"
   dependencies:
@@ -1221,12 +1216,12 @@
   "version" "2.3.1"
 
 "prelude-ls@~1.1.2":
-  "integrity" "sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ= sha512-ESF23V4SKG6lVSGZgYNpbsiaAkdab6ZgOxe52p7+Kid3W3u3bxR4Vfd/o21dmN7jSt0IwgZ4v5MUd26FEtXE9w=="
+  "integrity" "sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ="
   "resolved" "http://47.94.79.100:4873/prelude-ls/-/prelude-ls-1.1.2.tgz"
   "version" "1.1.2"
 
 "pretty-hrtime@^1.0.3":
-  "integrity" "sha1-t+PqQkNaTJsnWdmeDyAesZWALuE= sha512-66hKPCr+72mlfiSjlEB1+45IjXSqvVAIy6mocupoww4tBFE9R9IhwwUGoI4G++Tc9Aq+2rxOt0RFU6gPcrte0A=="
+  "integrity" "sha1-t+PqQkNaTJsnWdmeDyAesZWALuE="
   "resolved" "http://47.94.79.100:4873/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz"
   "version" "1.0.3"
 
@@ -1416,7 +1411,7 @@
   "version" "3.2.4"
 
 "text-table@^0.2.0":
-  "integrity" "sha1-f17oI66AUgfACvLfSoTsP8+lcLQ= sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw=="
+  "integrity" "sha1-f17oI66AUgfACvLfSoTsP8+lcLQ="
   "resolved" "http://47.94.79.100:4873/text-table/-/text-table-0.2.0.tgz"
   "version" "0.2.0"
 
@@ -1431,7 +1426,7 @@
   "version" "2.0.0"
 
 "timsort@^0.3.0":
-  "integrity" "sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q= sha512-qsdtZH+vMoCARQtyod4imc2nIJwg9Cc7lPRrw9CzF8ZKR0khdr8+2nX80PBhET3tcyTtJDxAffGh2rXH4tyU8A=="
+  "integrity" "sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q="
   "resolved" "http://47.94.79.100:4873/timsort/-/timsort-0.3.0.tgz"
   "version" "0.3.0"
 
@@ -1474,7 +1469,7 @@
   "version" "2.4.0"
 
 "type-check@~0.3.2":
-  "integrity" "sha1-WITKtRLPHTVeP7eE8wgEsrUg23I= sha512-ZCmOJdvOWDBYJlzAoFkC+Q0+bUyEOS1ltgp1MGU03fqHG+dbi9tBFU2Rd9QKiDZFAYrhPh2JUf7rZRIuHRKtOg=="
+  "integrity" "sha1-WITKtRLPHTVeP7eE8wgEsrUg23I="
   "resolved" "http://47.94.79.100:4873/type-check/-/type-check-0.3.2.tgz"
   "version" "0.3.2"
   dependencies:
@@ -1496,7 +1491,7 @@
   "version" "1.0.1"
 
 "vary@~1.1.2":
-  "integrity" "sha1-IpnwLG3tMNSllhsLn3RSShj2NPw= sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg=="
+  "integrity" "sha1-IpnwLG3tMNSllhsLn3RSShj2NPw="
   "resolved" "http://47.94.79.100:4873/vary/-/vary-1.1.2.tgz"
   "version" "1.1.2"
 
