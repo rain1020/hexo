@@ -1,3 +1,7 @@
+---
+title: Node.js EventEmitter
+---
+
 ## Node.js EventEmitter
 
 #### 一.定义

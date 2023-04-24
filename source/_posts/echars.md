@@ -1,3 +1,7 @@
+---
+title: 封装 echarsManage
+---
+
 ## 封装 echarsManage
 
 #### 应用场景
