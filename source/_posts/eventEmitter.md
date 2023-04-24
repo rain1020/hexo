@@ -1,5 +1,6 @@
 ---
 title: Node.js EventEmitter
+date: 2022-12-24
 ---
 
 ## Node.js EventEmitter

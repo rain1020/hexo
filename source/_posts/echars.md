@@ -1,5 +1,6 @@
 ---
 title: 封装 echarsManage
+date: 2022-12-24
 ---
 
 ## 封装 echarsManage

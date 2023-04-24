@@ -69,6 +69,13 @@ favicon: /favicon.png
 
 #你的头像url
 avatar:
+  /img/avatar.jpeg
+
+  # url:
+  # # rounded值为true则图片以圆形显示，false以方形显示
+  # rounded: true
+  # # rotated值为true，鼠标放上去的时候，图片会有旋转动画效果
+  # rotated: true
 
 #是否开启分享
 share_jia: true
